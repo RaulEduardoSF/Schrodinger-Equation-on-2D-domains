@@ -9,7 +9,6 @@ Aproximation occurs on square, polar and hexagonal coordinates.
 
 ### Finite difference method
 ![Ilustración_1](https://user-images.githubusercontent.com/74220104/208028174-f9320edf-fba9-495e-be31-5fd3b5b693b2.png)
-![Ilustración_1](https://user-images.githubusercontent.com/74220104/208028243-2b8360c0-3418-4fe4-9fbf-d23339e88ff6.png)
 ![Ilustración_1](https://user-images.githubusercontent.com/74220104/208028261-6d47a4c3-6584-44dc-83a3-1ca8e8d293bd.png)
 ![image](https://user-images.githubusercontent.com/74220104/208028315-cefc916d-9bcb-40be-810c-ca1ea3fb3a8b.png)
 
