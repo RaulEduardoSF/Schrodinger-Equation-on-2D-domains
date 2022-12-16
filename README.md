@@ -12,7 +12,7 @@ Aproximation occurs on square, polar and hexagonal coordinates.
 ![State_3](https://user-images.githubusercontent.com/74220104/208028442-dbc88f49-bb3a-4222-b2a1-e8708f6a3ecf.png)
 
 ### Finite difference method
-![image](https://user-images.githubusercontent.com/74220104/208030611-9be74e58-722a-4f6b-8a5b-fe0c5877862c.png)
+![image](https://user-images.githubusercontent.com/74220104/208030881-0a7fea0f-3b42-42c0-ac55-8a7d6094eb4d.png)
 ![image](https://user-images.githubusercontent.com/74220104/208030677-92db12d9-079f-4408-8361-8de323ebb453.png)
 ![image](https://user-images.githubusercontent.com/74220104/208030711-f79d9e54-f8fb-48c5-afca-1d05ea8e0fae.png)
 ![image](https://user-images.githubusercontent.com/74220104/208030799-f6cb3bee-73be-4141-aaeb-104e006e618d.png)
