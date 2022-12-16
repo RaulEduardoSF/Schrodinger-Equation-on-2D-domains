@@ -4,7 +4,6 @@ Aproximation occurs on square, polar and hexagonal coordinates.
 
 ### Densidad de probabilidad de posicion de la particula en el domino
 ![EstadoVr_2](https://user-images.githubusercontent.com/74220104/208027833-86776982-3124-49ae-a14e-c8a905d14580.png)
-![Modo2](https://user-images.githubusercontent.com/74220104/208027792-6f807624-45bd-4f40-9433-45212d0c9617.png)
 ![State_0](https://user-images.githubusercontent.com/74220104/208028418-3b379a9e-a15d-4c95-91a5-c317e85008da.png)
 ![State_3](https://user-images.githubusercontent.com/74220104/208028442-dbc88f49-bb3a-4222-b2a1-e8708f6a3ecf.png)
 
