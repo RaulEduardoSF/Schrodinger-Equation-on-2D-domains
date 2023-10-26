@@ -13,7 +13,7 @@ font = {'family': 'serif',
         'size' : 16,
         }
 
-N = 200
+N = 200                # Mallado finito
 a = -1
 b = 1
 X, Y = np.meshgrid(np.linspace(a, b, N, dtype=float),
